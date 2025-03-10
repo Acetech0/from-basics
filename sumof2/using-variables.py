@@ -5,3 +5,7 @@ print(a+b)
 x = 15
 y = 65 
 print(x*y)
+
+l = 60
+m = 70
+print(m-l)
