@@ -12,3 +12,11 @@ c = 50
 d = 60
 s = add(c,d)
 print(s)
+
+#3
+def add(x,y):
+    return x * y
+a= 12
+d= 35
+s= add(a,d)
+print(s)
