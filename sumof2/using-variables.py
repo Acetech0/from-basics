@@ -9,3 +9,7 @@ print(x*y)
 l = 60
 m = 70
 print(m-l)
+
+e = 45
+d = 45
+print(e+d)
