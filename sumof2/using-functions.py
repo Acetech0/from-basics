@@ -20,3 +20,11 @@ a= 12
 d= 35
 s= add(a,d)
 print(s)
+
+#4
+def mul(x,y):
+    return x*y
+x = 15
+y = 5
+m =mul(x,y)
+print(m)
